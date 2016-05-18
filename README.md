@@ -6,4 +6,4 @@ Very basic sample to help others get started with a simple digital style watch. 
 
 For minimal configuration the only files that should be of interest are:
 - ..\resources\layouts\layout.xml
-- ..\resources\background.png asdfa 
+- ..\resources\background.png 
