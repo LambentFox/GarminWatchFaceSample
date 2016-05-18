@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="11" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="16" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="28" pc="268435522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="29" pc="268435539" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="30" pc="268435587" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="31" pc="268435604" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="33" pc="268435621" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="34" pc="268435681" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="37" pc="268435768" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="38" pc="268435792" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="40" pc="268435806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="41" pc="268435830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="43" pc="268435844" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="44" pc="268435868" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="46" pc="268435938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="47" pc="268435962" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="50" pc="268436021" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="70" pc="268436053" symbol="getHour"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="71" pc="268436063" symbol="getHour"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="72" pc="268436069" symbol="getHour"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="72" pc="268436080" symbol="getHour"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="73" pc="268436092" symbol="getHour"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="73" pc="268436103" symbol="getHour"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleView.mc" lineNum="75" pc="268436115" symbol="getHour"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleApp.mc" lineNum="6" pc="268436121" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\SampleApp.mc" lineNum="19" pc="268436148" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="13" pc="268436188" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="14" pc="268436195" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="15" pc="268436203" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="17" pc="268436226" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="19" pc="268436250" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="21" pc="268436270" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="25" pc="268436316" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="27" pc="268436328" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="28" pc="268436360" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\Background.mc" lineNum="30" pc="268436404" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="20" pc="268436443" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="21" pc="268436450" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="22" pc="268436458" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="23" pc="268436478" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="24" pc="268436498" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="27" pc="268436521" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="28" pc="268436545" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="29" pc="268436569" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="31" pc="268436593" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="34" pc="268436613" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="37" pc="268436656" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="38" pc="268436669" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="39" pc="268436682" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="40" pc="268436695" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="41" pc="268436705" symbol="initialize"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="45" pc="268436718" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="46" pc="268436731" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="47" pc="268436744" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="48" pc="268436776" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="49" pc="268436800" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="51" pc="268436879" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="53" pc="268436931" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="55" pc="268436987" symbol="draw"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="65" pc="268437017" symbol="setStatus"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="66" pc="268437027" symbol="setStatus"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="67" pc="268437037" symbol="setStatus"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="68" pc="268437047" symbol="setStatus"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="69" pc="268437057" symbol="setStatus"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="73" pc="268437070" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="74" pc="268437077" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="74" pc="268437088" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="75" pc="268437101" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="75" pc="268437118" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="76" pc="268437131" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="76" pc="268437148" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="77" pc="268437161" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="77" pc="268437172" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="78" pc="268437185" symbol="getStatusText"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="82" pc="268437191" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="83" pc="268437208" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="85" pc="268437243" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="86" pc="268437269" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Brian\\workspace\\Sample\\source\\ActionBar.mc" lineNum="87" pc="268437307" symbol="drawBattery"/>
+<entry filename="Rez" lineNum="22" pc="268437351" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268437414" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268437441" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268437457" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268437506" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268437616" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268437631" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268437683" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268437697" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268437807" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268437822" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268437874" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268437888" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268437998" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268438013" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268438065" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268438155" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268438182" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="42" pc="268438198" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="30" symbol="drawBattery"/>
+<entry field="true" id="18" symbol="id_actionBar"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="11" object="true" symbol="ActionBar"/>
+<entry field="true" id="20" symbol="AppName"/>
+<entry id="24" symbol="notifications"/>
+<entry id="27" symbol="isDoNotDisturb"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="13" symbol="bgcolor"/>
+<entry id="10" object="true" symbol="Background"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="16" symbol="id_background"/>
+<entry id="8" object="true" symbol="SampleView"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="29" symbol="getStatusText"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="26" symbol="isPhoneConnected"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="19" symbol="id_arial_30"/>
+<entry id="25" symbol="alarms"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="12" symbol="background"/>
+<entry id="21" method="true" symbol="getHour"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="23" symbol="emptyColor"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="9" object="true" symbol="SampleApp"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="22" symbol="actionBarFont"/>
+<entry id="28" method="true" symbol="setStatus"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436041" name="timeString" stackId="7" startPc="268435522"/>
+<entry endPc="268436041" name="dayString" stackId="6" startPc="268435522"/>
+<entry endPc="268436041" name="timeLabel" stackId="8" startPc="268435522"/>
+<entry endPc="268436041" name="dateLabel" stackId="9" startPc="268435522"/>
+<entry endPc="268436041" name="clockTime" stackId="2" startPc="268435522"/>
+<entry endPc="268436041" name="settings" stackId="5" startPc="268435522"/>
+<entry endPc="268436041" name="actInfo" stackId="4" startPc="268435522"/>
+<entry endPc="268436041" name="stepLabel" stackId="10" startPc="268435522"/>
+<entry endPc="268436041" name="actionBar" stackId="11" startPc="268435522"/>
+<entry endPc="268436041" name="dateInfo" stackId="3" startPc="268435522"/>
+<entry endPc="268436118" name="hour" stackId="3" startPc="268436053"/>
+<entry endPc="268437014" name="height" stackId="3" startPc="268436718"/>
+<entry endPc="268437014" name="width" stackId="2" startPc="268436718"/>
+<entry endPc="268437188" name="ret" stackId="1" startPc="268437070"/>
+<entry endPc="268438255" name="rez_cmp_local_label_StepLabel_font" stackId="9" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_DateLabel_font" stackId="6" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_TimeLabel" stackId="4" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_StepLabel_fontHeight" stackId="11" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_DateLabel_fontHeight" stackId="8" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_DateLabel" stackId="7" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_custom_drawable_ActionBar" stackId="12" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_custom_drawable_Background" stackId="2" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_TimeLabel_font" stackId="3" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="5" startPc="268437351"/>
+<entry endPc="268438255" name="rez_cmp_local_label_StepLabel" stackId="10" startPc="268437351"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="SampleView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="SampleView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="SampleView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="SampleView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="SampleView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="SampleView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="SampleView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getHour" parent="SampleView">
+<param id="is24Hour"/>
+<param id="clockTime"/>
+<documentation><![CDATA[<div class="description"> Gets the current hour<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="SampleApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="SampleApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="SampleApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="SampleApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ActionBar">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="ActionBar">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setStatus" parent="ActionBar">
+<param id="batteryLife"/>
+<param id="notificationCount"/>
+<param id="alarmCount"/>
+<param id="phoneConnected"/>
+<param id="doNotDisturb"/>
+<documentation><![CDATA[<div class="description"> Sets the status of the action bar<br/> <div class="param"> battery Float value representing current battery value between 0-100</div><br/> <div class="param"> notificationCount Number of notifications user has recieved</div><br/> <div class="param"> alarmCount Number of alarms currently active</div><br/> <div class="param"> phoneConnected Boolean value if the watch is connected to the phone through bluetooth</div><br/> <div class="param"> doNotDisturb Boolean value if do not disturb mode is enabled, currently not part of the sdk...</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getStatusText" parent="ActionBar">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBattery" parent="ActionBar">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

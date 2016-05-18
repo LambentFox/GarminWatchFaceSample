@@ -1,0 +1,14 @@
+<layout id="WatchFace">
+	<drawable id="Background" class="Background">
+		<param name="locY">110</param>
+		<param name="bgcolor">Gfx.COLOR_BLACK</param>
+	</drawable>
+    <label id="TimeLabel" x="center" y="45" font="Rez.Fonts.id_arial_30" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+    <label id="DateLabel" x="center" y="68" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+    <label id="StepLabel" x="center" y="85" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+    <drawable id="ActionBar" class="ActionBar">
+    	<param name="justification">Gfx.TEXT_JUSTIFY_LEFT</param>
+    	<param name="color">Gfx.COLOR_BLUE</param>
+    	<param name="emptyColor">Gfx.COLOR_RED</param>
+    </drawable>
+</layout>
