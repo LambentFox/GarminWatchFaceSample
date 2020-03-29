@@ -1,4 +1,4 @@
-#Garmin Watch Face Sample
+<h1>Garmin Watch Face Sample</h1>
 
 Very basic sample to help others get started with a simple digital style watch. This has an action bar, display time/date, and steps/goal.
 
